@@ -65,7 +65,7 @@
         "file": "@PROJECT_PATH@/fonts/dosis.extrabold/font.ttf"
       }
     ],
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/linkmory-logo.png",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
